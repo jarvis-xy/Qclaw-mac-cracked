@@ -28,7 +28,7 @@ A fully automated patcher for **[QClaw](https://claw.guanjia.qq.com/)** (Tencent
 
 2. **Clone** this repository:
    ```bash
-   git clone https://github.com/dulipeng069/Qclaw-mac-cracked.git
+   git clone https://github.com/jarvis-xy/Qclaw-mac-cracked.git
    ```
 
 3. **Enter the project directory**:

@@ -28,7 +28,7 @@
 
 2. **克隆** 本仓库：
    ```bash
-   git clone https://github.com/dulipeng069/Qclaw-mac-cracked.git
+   git clone https://github.com/jarvis-xy/Qclaw-mac-cracked.git
    ```
 
 3. **进入项目目录**：
