@@ -6,7 +6,7 @@ A fully automated patcher for **QClaw** (Tencent's AI Desktop Agent) to unlock a
 
 ## Features
 
-- �� **Unlock Access**: Bypasses the "Invitation Code Required" modal.
+- 🔓 **Unlock Access**: Bypasses the "Invitation Code Required" modal.
 - 🛡️ **Disable Updates**: Sets version to `99.9.9` to prevent auto-updates from reverting the patch.
 - 🍏 **macOS Support**: Automatically handles `xattr` quarantine removal and code re-signing.
 - 📦 **Dependency Free**: Uses built-in Node.js modules and custom ASAR packer/unpacker (no `npm install` needed).
@@ -17,15 +17,23 @@ A fully automated patcher for **QClaw** (Tencent's AI Desktop Agent) to unlock a
 - [Node.js](https://nodejs.org/) installed.
 - QClaw installed (v0.1.1 or compatible).
 
-### Run the Patcher
+### Installation & Run
 
-1. Open your terminal.
-2. Run the script:
+1. **Download or Clone** this repository:
+   ```bash
+   git clone https://github.com/dulipeng069/Qclaw-mac-cracked.git
+   ```
 
-```bash
-# macOS (Requires sudo to modify /Applications)
-sudo node patch.js
-```
+2. **Enter the project directory** (Important!):
+   ```bash
+   cd Qclaw-mac-cracked
+   ```
+
+3. **Run the patcher**:
+   ```bash
+   # macOS (Requires sudo to modify /Applications)
+   sudo node patch.js
+   ```
 
 ## How it works
 
