@@ -2,11 +2,11 @@
 
 > ⚠️ **Disclaimer**: This tool is for educational purposes only. Please support the original developers by obtaining a legitimate invitation code when possible.
 
-A fully automated patcher for **QClaw** (Tencent's AI Desktop Agent) to unlock access without an invitation code and disable auto-updates.
+A fully automated patcher for **[QClaw](https://claw.guanjia.qq.com/)** (Tencent's AI Desktop Agent) to unlock access without an invitation code and disable auto-updates.
 
 ## Features
 
-- �� **Unlock Access**: Bypasses the "Invitation Code Required" modal.
+- 🔓 **Unlock Access**: Bypasses the "Invitation Code Required" modal.
 - 🛡️ **Disable Updates**: Sets version to `99.9.9` to prevent auto-updates from reverting the patch.
 - 🍏 **macOS Support**: Automatically handles `xattr` quarantine removal and code re-signing.
 - 📦 **Dependency Free**: Uses built-in Node.js modules and custom ASAR packer/unpacker (no `npm install` needed).
@@ -15,7 +15,7 @@ A fully automated patcher for **QClaw** (Tencent's AI Desktop Agent) to unlock a
 
 ### Prerequisites
 - [Node.js](https://nodejs.org/) installed.
-- QClaw installed (v0.1.1 or compatible).
+- [QClaw](https://claw.guanjia.qq.com/) installed (v0.1.1 or compatible).
 
 ### Installation & Run
 
